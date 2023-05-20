@@ -1,19 +1,19 @@
-# All React js Hooks
+# All React js hook
 
-### `useState` hooks
+### `useState` hook
 
-### `useReducer` hooks
+### `useReducer` hook
 
-### `useEffect` hooks
+### `useEffect` hook
 
-### `useLayoutEffect` hooks
+### `useLayoutEffect` hook
 
-### `useRef` hooks
+### `useRef` hook
 
-### `useImperativeHandle` hooks
+### `useImperativeHandle` hook
 
-### `useContext` hooks
+### `useContext` hook
 
-### `useMemo` hooks
+### `useMemo` hook
 
-### `useCallback` hooks
+### `useCallback` hook

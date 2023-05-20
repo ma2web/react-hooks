@@ -16,4 +16,4 @@
 
 ### `useMemo`
 
-### `useCallback` hook
+### `useCallback`
